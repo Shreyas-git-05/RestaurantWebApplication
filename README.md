@@ -1,4 +1,4 @@
-# Saffron & Stone
+# INDIAN KITCHEN
 
 A polished restaurant website and local food ordering prototype, built with React, Vite, React Router, Framer Motion and Lucide icons.
 
